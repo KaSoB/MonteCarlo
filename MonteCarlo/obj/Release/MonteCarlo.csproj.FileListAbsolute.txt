@@ -1,0 +1,8 @@
+C:\Users\Kamil\Desktop\MonteCarlo\MonteCarlo\MonteCarlo\obj\Release\MonteCarlo.MainForm.resources
+C:\Users\Kamil\Desktop\MonteCarlo\MonteCarlo\MonteCarlo\obj\Release\MonteCarlo.csproj.GenerateResource.Cache
+C:\Users\Kamil\Desktop\MonteCarlo\MonteCarlo\MonteCarlo\bin\Release\MonteCarlo.exe.config
+C:\Users\Kamil\Desktop\MonteCarlo\MonteCarlo\MonteCarlo\bin\Release\MonteCarlo.exe
+C:\Users\Kamil\Desktop\MonteCarlo\MonteCarlo\MonteCarlo\bin\Release\MonteCarlo.pdb
+C:\Users\Kamil\Desktop\MonteCarlo\MonteCarlo\MonteCarlo\obj\Release\MonteCarlo.Properties.Resources.resources
+C:\Users\Kamil\Desktop\MonteCarlo\MonteCarlo\MonteCarlo\obj\Release\MonteCarlo.exe
+C:\Users\Kamil\Desktop\MonteCarlo\MonteCarlo\MonteCarlo\obj\Release\MonteCarlo.pdb

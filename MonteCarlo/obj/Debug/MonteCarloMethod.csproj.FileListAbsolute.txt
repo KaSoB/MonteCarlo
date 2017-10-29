@@ -1,0 +1,12 @@
+j:\Desktop\MonteCarlo\MonteCarloMethod\MonteCarloMethod\bin\Debug\MonteCarloMethod.exe.config
+j:\Desktop\MonteCarlo\MonteCarloMethod\MonteCarloMethod\bin\Debug\MonteCarloMethod.exe
+j:\Desktop\MonteCarlo\MonteCarloMethod\MonteCarloMethod\bin\Debug\MonteCarloMethod.pdb
+j:\Desktop\MonteCarlo\MonteCarloMethod\MonteCarloMethod\obj\Debug\MonteCarloMethod.csprojResolveAssemblyReference.cache
+j:\Desktop\MonteCarlo\MonteCarloMethod\MonteCarloMethod\obj\Debug\MonteCarloMethod.MainForm.resources
+j:\Desktop\MonteCarlo\MonteCarloMethod\MonteCarloMethod\obj\Debug\MonteCarloMethod.Properties.Resources.resources
+j:\Desktop\MonteCarlo\MonteCarloMethod\MonteCarloMethod\obj\Debug\MonteCarloMethod.csproj.GenerateResource.Cache
+j:\Desktop\MonteCarlo\MonteCarloMethod\MonteCarloMethod\obj\Debug\MonteCarloMethod.exe
+j:\Desktop\MonteCarlo\MonteCarloMethod\MonteCarloMethod\obj\Debug\MonteCarloMethod.pdb
+C:\Users\Kamil\Desktop\MonteCarlo\MonteCarloMethod\MonteCarloMethod\bin\Debug\MonteCarloMethod.exe.config
+C:\Users\Kamil\Desktop\MonteCarlo\MonteCarloMethod\MonteCarloMethod\obj\Debug\MonteCarloMethod.exe
+C:\Users\Kamil\Desktop\MonteCarlo\MonteCarloMethod\MonteCarloMethod\obj\Debug\MonteCarloMethod.pdb
